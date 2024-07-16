@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh2773
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning MySQL for Data Analyst
 - 📫 How to reach me: through my Gmail : harshuni27@gmail.com
 
 <!---
